@@ -2,16 +2,16 @@
   "applinks": {
     "details": [
       {
-        "appID": "X8NRT93MC3.com.norsoft.floorstudio.Clip",
-        "paths": [ "/*" ]
+        "appIDs": ["X8NRT93MC3.com.norsoft.floorstudio.Clip"],
+        "paths": ["/*"]
       }
     ]
   },
   "appclips": {
     "details": [
       {
-        "appID": "X8NRT93MC3.com.norsoft.floorstudio.Clip",
-        "paths": [ "/*" ]
+        "appIDs": ["X8NRT93MC3.com.norsoft.floorstudio.Clip"],
+        "paths": ["/*"]
       }
     ]
   }
