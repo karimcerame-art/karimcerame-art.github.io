@@ -6,7 +6,9 @@
           "X8NRT93MC3.com.norsoft.floorstudio",
           "X8NRT93MC3.com.norsoft.floorstudio.Clip"
         ],
-        "paths": [ "/*" ]
+        "paths": [
+          "/*"
+        ]
       }
     ]
   },
